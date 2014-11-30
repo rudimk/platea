@@ -1,7 +1,7 @@
 Platea
 ======
 
-Sample app for Droidcon India 2014, and maybe the start of something new.
+Sample app for [Droidcon India 2014](https://droidcon.in/2014), and maybe the start of something new.
 
 I'm interested in working on using a combination of mobile and wearable tech,
 plus elements of machine learning and NLP, to make the whole concept of understanding
@@ -12,6 +12,8 @@ Anyway, as of now, this app's just a small demo on using Mobile Chrome Apps for 
 The idea is to showcase useful phrases for 2-3 languages - probably French, German
 and Greek - as well as audio samples for those phrases, to help someone who's just
 landed in, say, Paris, Berlin or Athens, to get by.
+
+You can also check out the proposal for my talk, featuring this app, [here](https://funnel.hasgeek.com/droidcon2014/1343-mobile-chrome-apps-html5-mobile-apps-done-right).
 
 Build Instructions
 ===================
